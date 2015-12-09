@@ -1,3 +1,5 @@
+//too long can be made short
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
